@@ -1,0 +1,16 @@
+{
+	"short_name": "Furigana Remover",
+	"name": "EPUB Furigana Remover",
+	"description": "A tool to remove furigana from EPUB files, making Japanese e-books cleaner and more readable for advanced learners",
+	"icons": [
+		{
+			"src": "book.svg",
+			"type": "image/svg+xml",
+			"sizes": "24x24"
+		}
+	],
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#2563eb",
+	"background_color": "#ffffff"
+}
